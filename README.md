@@ -19,8 +19,8 @@ other way around), print a message as follows:
 
 ``` bash
 npm install
-
-## Deploy
+```
 
 ``` bash
 npm run start
+```
